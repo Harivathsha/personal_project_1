@@ -12,6 +12,12 @@ Navigation using nav2
 Sensor fusion with EKF
 Ball tracking using computer vision
 Fully compatible with RViz2 for visualization
+![WhatsApp Image 2025-10-28 at 21 57 15](https://github.com/user-attachments/assets/ac7f90b7-1c7c-49f6-9ed8-bcd533ea61e7)
+
+
+![WhatsApp Image 2025-10-28 at 22 18 03](https://github.com/user-attachments/assets/29b96c0f-55fa-4342-920a-541a19f7be44)
+
+
 
 TECH STACK:
 ROS 2 (tested on Jazzy)
